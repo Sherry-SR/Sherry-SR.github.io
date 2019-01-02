@@ -9,4 +9,8 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>I am currently a master student in Electrical and Computer Engineering at Johns Hopkins University, advised by <a href="http://iacl.ece.jhu.edu/index.php/Prince">Dr. Jerry Prince</a>. My research interests are computer vision and medical image analysis.</p>
+
+<p>Before that, I received my B.E. at Southeast University.</p>
+
+<p>I was working as an intern at Philips North America in 2018 summer.</p>

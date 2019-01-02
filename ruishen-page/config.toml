@@ -1,18 +1,18 @@
 baseURL = "https://sherry-sr.github.io/"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Rui Shen"
 theme = "hugo-resume"
 
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
-    phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
-    profileImage = "img/TechChat.png"
-    email = "email@domain.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
-    favicon = "images/favicon.ico"
+    firstName = "Rui"
+    lastName = "Shen"
+    address = "Baltimore, MD"
+    phone = "1-443-248-2532"
+    contactNote = "Johns Hopkins University"
+    profileImage = "img/me.jpg"
+    email = "sherry.shen@jhu.edu"
+    description = "Rui Shen webpage"
+    favicon = "favicon.jpg"
     # what sections
     showSkills = true
     showProjects = true
@@ -24,27 +24,9 @@ theme = "hugo-resume"
     showQr = true
 
 [[params.handles]]
-    name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
-
-
-[[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/Sherry-SR"
 
 [[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
-
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "keybase"
-
-[params.google.analytics]
-    trackerID = "XX-123446-01"
+    name = "Linkedin"
+    link = "https://www.linkedin.com/in/rui-shen-b99a91131"
