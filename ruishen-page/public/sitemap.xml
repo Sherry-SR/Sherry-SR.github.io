@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sherry-sr.github.io/publications/ivasismrm2018/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/</loc>
+    <lastmod>2018-02-10T18:56:13-05:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/publications/foetalismrm2017/</loc>
+    <lastmod>2017-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/publications/gridradiology2018/</loc>
+    <lastmod>2017-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/projects/bosh-agents/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/atlassian-developer-ecosystem/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/atlassian-ecosystem/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/projects/marketplace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/bamboo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/bash-shell/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/bitbucket/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/bosh/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/confluence/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/devops/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/docker/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/projects/docker-marketplace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/java/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/javascript/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/jira/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/maven/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/monit/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/projects/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/publications/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/python/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/rest-apis/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/spring/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sherry-sr.github.io/tags/xml-xslt/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
