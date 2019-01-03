@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: 2018-01-01
 pubtype: "Talk,Article,Etc"
 featured: true
+submitted: true
 description: "Text used in summary on main page"
 tags: ["techtags","used","in","website"]
 image: ""

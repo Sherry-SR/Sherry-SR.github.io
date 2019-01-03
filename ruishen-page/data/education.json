@@ -1,15 +1,15 @@
 [
     {
-        "school":"Rochester Institute of Technology",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"Johns Hopkins University",
+        "degree":"Master of Science",
+        "major":"Electrical and Computer Engineering",
+        "range":"2017 - Present"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Southeast University",
+        "degree":"Bachelor of Engineering",
+        "major":"Biomedical Engineering",
+        "range":"2013 - 2017",
+        "notes":"Outstanding graduate student (Top2%)"
     }
 ]

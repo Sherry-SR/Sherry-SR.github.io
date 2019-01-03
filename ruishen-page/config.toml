@@ -1,7 +1,6 @@
 baseURL = "https://sherry-sr.github.io/"
 languageCode = "en-us"
 title = "Rui Shen"
-theme = "hugo-resume"
 
 [params]
     firstName = "Rui"
@@ -14,13 +13,13 @@ theme = "hugo-resume"
     description = "Rui Shen webpage"
     favicon = "favicon.jpg"
     # what sections
-    showSkills = true
     showProjects = true
-    showOpenSource = true
+    showSkills = true
+    showOpenSource = false
     showPublications = true
     showExperience = true
     showEducation = true
-
+    showBlog = true
     showQr = true
 
 [[params.handles]]

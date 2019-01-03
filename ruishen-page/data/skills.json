@@ -1,23 +1,21 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"Focus",
+      "skills":[ "Medical Image Analysis","Computer Vision","Machine Learning","Image and Signal Processing"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "Python","C++","Swift","Pascal","Matlab","git","Latex","Linux","Unity 3D"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Medical Imaging",
+      "skills":[ "Freesurfer","Fsl","JIST","SPM","3D scliver"]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+      "grouping":"Machine Learning",
+      "skills":[ "Tensorflow","Keras","Pytorch"]
+  },
+  {
+      "grouping":"Advanced Courses",
+      "skills":[ "Machine Learning","Wavelets","Compressed Sensing","Medicla Imaging Systems","Medical Image Analysis","Probalistic Models of Visual Cortex","Image Processing and Analysis","Random Signal Processing","Principle of Complex Networked Systems","Compulational Medicine"]
   }
 ]
