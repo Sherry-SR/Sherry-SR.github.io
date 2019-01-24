@@ -15,4 +15,4 @@ outputs:
 
 <p>I was working as an intern at Philips North America in 2018 summer.</p>
 
-<p> [View my <a href="files/Rui_Resume.pdf">Resume</a>] </p>
+<p> [View my <a href="/files/Rui_Resume.pdf">Resume</a>] </p>

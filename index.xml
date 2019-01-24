@@ -89,7 +89,7 @@
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sherry-sr.github.io/projects/grid/</guid>
-      <description>This is my bachelor graduation project in 2016. Inspired by the paper &amp;ldquo;Grid-cell representations in mental simulation&amp;rdquo; published in August 2016, I was thinking if grid-like representations can be activated given more abstract and simple cues, and can be detected using fMRI. The motivation was to simplify the original experimental paradigm from the paper, in order to make it possible to use in wider clinical trails and measurements. In my graduation project, I first implemented the navigation task in virtual-reality city using Unity3D.</description>
+      <description>Overview  This is my bachelor graduation project in 2016. Inspired by Bellmund&amp;rsquo;s paper &amp;ldquo;Grid-cell representations in mental simulation&amp;rdquo; published in August 2016, I was thinking if grid-like representations can be activated given more abstract and simple cues, and can be detected using fMRI. The motivation was to simplify the original experimental paradigm from the paper, in order to make it possible to use in wider clinical trails and measurements. In my graduation project, I first implemented the navigation task in virtual-reality city using Unity3D.</description>
     </item>
     
     <item>
